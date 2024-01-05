@@ -1,7 +1,8 @@
 repo_name: kafukoM/memory-game-odin
 report_id: 55244aeafd2710fc7d9855517625d52e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T14:22:20+00:00'
+timestamp: '2024-01-05T08:35:35+00:00'
 requested_by: kafukoM
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/kafukoM/memory-game-odin
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/kafukoM/memory-game-odin
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -36,7 +39,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: memory-card-game/package-lock.json
+  detection_source_url: https://github.com/kafukoM/memory-game-odin/blob/main/memory-card-game/package-lock.json
   detection_source: memory-card-game/package.json
   last_updated_by: unknown
   last_updated_on: 2023-05-03 14:49:28.000000000 Z
@@ -48,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kafukoM/memory-game-odin
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -57,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/kafukoM/memory-game-odin/blob/main/memory-card-game/package.json
   detection_source: memory-card-game/package.json
   last_updated_by: unknown
   last_updated_on: 2023-05-03 14:49:28.000000000 Z
@@ -66,6 +71,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/kafukoM/memory-game-odin/blob/main/memory-card-game/public/index.html
   detection_source: memory-card-game/public/index.html
   last_updated_by: unknown
   last_updated_on: 2023-05-03 14:49:28.000000000 Z
@@ -79,7 +85,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16644/default_50c9ed1615a25628505ab53def64d82450ced26b.png
-  detection_source_url: memory-card-game/package-lock.json
+  detection_source_url: https://github.com/kafukoM/memory-game-odin/blob/main/memory-card-game/package-lock.json
   detection_source: memory-card-game/package.json
   last_updated_by: unknown
   last_updated_on: 2023-05-03 14:49:28.000000000 Z
@@ -93,7 +99,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16683/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
-  detection_source_url: memory-card-game/package-lock.json
+  detection_source_url: https://github.com/kafukoM/memory-game-odin/blob/main/memory-card-game/package-lock.json
   detection_source: memory-card-game/package.json
   last_updated_by: unknown
   last_updated_on: 2023-05-03 14:49:28.000000000 Z
@@ -107,7 +113,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16936/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
-  detection_source_url: memory-card-game/package-lock.json
+  detection_source_url: https://github.com/kafukoM/memory-game-odin/blob/main/memory-card-game/package-lock.json
   detection_source: memory-card-game/package.json
   last_updated_by: unknown
   last_updated_on: 2023-05-03 14:49:28.000000000 Z
@@ -121,7 +127,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: memory-card-game/package-lock.json
+  detection_source_url: https://github.com/kafukoM/memory-game-odin/blob/main/memory-card-game/package-lock.json
   detection_source: memory-card-game/package.json
   last_updated_by: unknown
   last_updated_on: 2023-05-03 14:49:28.000000000 Z
@@ -136,7 +142,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: memory-card-game/package-lock.json
+  detection_source_url: https://github.com/kafukoM/memory-game-odin/blob/main/memory-card-game/package-lock.json
   detection_source: memory-card-game/package.json
   last_updated_by: unknown
   last_updated_on: 2023-05-03 14:49:28.000000000 Z
@@ -150,7 +156,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: memory-card-game/package-lock.json
+  detection_source_url: https://github.com/kafukoM/memory-game-odin/blob/main/memory-card-game/package-lock.json
   detection_source: memory-card-game/package.json
   last_updated_by: unknown
   last_updated_on: 2023-05-03 14:49:28.000000000 Z
@@ -164,7 +170,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: memory-card-game/package-lock.json
+  detection_source_url: https://github.com/kafukoM/memory-game-odin/blob/main/memory-card-game/package-lock.json
   detection_source: memory-card-game/package.json
   last_updated_by: unknown
   last_updated_on: 2023-05-03 14:49:28.000000000 Z
